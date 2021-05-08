@@ -1,3 +1,4 @@
 # Asignacion-clase1g
-
-Gabriel Cordoba, Ing. Telematica
+ 
+ #Teleprgm2
+ Gabriel Cordoba, Ing. Telematica
